@@ -6,7 +6,7 @@ I'm interested in software development, cybersecurity and pretty much anything t
 ### What I'm into
 - Coding and making projects
 - Cybersecurity
-- Desktop apps
+- App development
 - Web development
 - Learning how things work
 
@@ -14,7 +14,6 @@ I'm interested in software development, cybersecurity and pretty much anything t
 - HTML / CSS
 - JavaScript / TypeScript
 - Python
-- C#
 - Git & GitHub
 
 Most of my repositories are things I've been working on, experimenting with or just building for fun.
