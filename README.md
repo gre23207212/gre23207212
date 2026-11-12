@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm currently studying IT and spend a lot of my free time messing around with code, building projects and learning new things.
 
-<!--
-**gre23207212/gre23207212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in software development, cybersecurity and pretty much anything tech-related.
 
-Here are some ideas to get you started:
+### What I'm into
+- Coding and making projects
+- Cybersecurity
+- Desktop apps
+- Web development
+- Learning how things work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & tools
+- HTML / CSS
+- JavaScript / TypeScript
+- Python
+- C#
+- Git & GitHub
+
+Most of my repositories are things I've been working on, experimenting with or just building for fun.
